@@ -1,0 +1,2 @@
+backend = uvicorn app.main:app --reload(cd D:\SkillLight\SkillLight\skill_light_backend)
+frontend =  flutter run -d chrome

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+    <g fill="none">
+        <!-- subtle closed mouth: thin line -->
+        <rect x="260" y="230" width="80" height="6" rx="3" fill="#2b2b2b" opacity="0.92"/>
+    </g>
+</svg>

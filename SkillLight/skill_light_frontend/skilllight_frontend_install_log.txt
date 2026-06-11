@@ -1,0 +1,6 @@
+Installation started at Sun 10/26/2025  9:43:26.01 
+Flutter is already up to date on channel stable
+Flutter 3.35.7 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision adc9010625 (4 days ago) • 2025-10-21 14:16:03 -0400
+Engine • hash 6b24e1b529bc46df7ff397667502719a2a8b6b72 (revision 035316565a) (4 days ago) • 2025-10-21 14:28:01.000Z
+Tools • Dart 3.9.2 • DevTools 2.48.0

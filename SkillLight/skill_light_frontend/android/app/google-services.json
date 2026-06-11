@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249150452209",
+    "project_id": "skill-light",
+    "storage_bucket": "skill-light.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249150452209:android:6c5d8213a2c92ead7ad450",
+        "android_client_info": {
+          "package_name": "com.example.skill_light_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARuPtsJst7wAyZPa1uLcT9Wk3g8ZTCd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

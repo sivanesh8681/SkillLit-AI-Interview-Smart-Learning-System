@@ -1,0 +1,24 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Audio
+*.mp3
+*.wav
